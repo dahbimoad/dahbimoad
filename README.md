@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dahbimoad1@gmail.com**
 
-- 🌐 This is my personal website **dahbimoad.com**
+- 🌐 This is my personal website [dahbimoad.com](https://dahbimoad.com)
 
 - ⚡ Fun fact **I enjoy debugging as much as writing code!**
 
