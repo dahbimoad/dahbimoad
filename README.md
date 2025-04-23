@@ -70,6 +70,12 @@
   </tr>
 </table>
 
+<!-- Most Used Languages Section (NEW) -->
+<div align="center">
+  <h3>Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahbimoad&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117&text_color=FFFFFF&title_color=FFAE00" width="60%" />
+</div>
+
 <!-- KEY POINTS SECTION -->
 <div align="center">
   <!-- Futuristic Information Tiles -->
@@ -88,53 +94,62 @@
 <!-- CERTIFICATIONS SECTION - Redesigned -->
 <div align="center">
   <h2>
-    <span>🏆</span>
-    <span style="color: #FFAE00"> PROFESSIONAL CERTIFICATIONS </span>
-    <span>🏆</span>
+    <span>🏆 PROFESSIONAL CERTIFICATIONS 🏆</span>
   </h2>
 </div>
 
-<!-- New and improved certification section with cards -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 40px;">
-  <!-- Certification 1 -->
-  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #0F3460 100%); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; width: 300px; text-align: center;">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="100%" alt="Oracle">
-    <h3 style="color: #FFAE00; margin: 15px 0;">Java SE 8 Programmer I</h3>
-    <p style="color: #f0f0f0; margin-bottom: 15px;">Oracle Certified Associate credential validating core Java programming skills</p>
-    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C69934E18073C4BF03D5E74693080DA67DB974B336AE49D7AD00F16C2CC53827" target="_blank" style="display: inline-block; background: #FFAE00; color: #000; text-decoration: none; padding: 8px 15px; border-radius: 5px; font-weight: bold;">
-      View Credential
-    </a>
-  </div>
-  
-  <!-- Certification 2 -->
-  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #252525 100%); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; width: 300px; text-align: center;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" alt="GitHub">
-    <h3 style="color: #FFAE00; margin: 15px 0;">GitHub Foundations</h3>
-    <p style="color: #f0f0f0; margin-bottom: 15px;">Certified in version control, collaboration and GitHub workflow fundamentals</p>
-    <a href="https://www.credly.com/badges/0837088b-e45f-42ec-a5ed-cef0b3e47ad1/public_url" target="_blank" style="display: inline-block; background: #FFAE00; color: #000; text-decoration: none; padding: 8px 15px; border-radius: 5px; font-weight: bold;">
-      View Credential
-    </a>
-  </div>
-  
-  <!-- Certification 3 -->
-  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #00205b 100%); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; width: 300px; text-align: center;">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="100%" alt="Microsoft Azure">
-    <h3 style="color: #FFAE00; margin: 15px 0;">Azure Fundamentals</h3>
-    <p style="color: #f0f0f0; margin-bottom: 15px;">Certified in cloud concepts, Azure services, security, privacy, and compliance</p>
-    <a href="https://learn.microsoft.com/en-us/users/moaddahbi-3964/credentials/e95e246a9fdb9360?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" style="display: inline-block; background: #FFAE00; color: #000; text-decoration: none; padding: 8px 15px; border-radius: 5px; font-weight: bold;">
-      View Credential
-    </a>
-  </div>
-  
-  <!-- Certification 4 (Meta) -->
-  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #0668E1 100%); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; width: 300px; text-align: center;">
-    <img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white" width="100%" alt="Meta">
-    <h3 style="color: #FFAE00; margin: 15px 0;">Front-End Developer</h3>
-    <p style="color: #f0f0f0; margin-bottom: 15px;">Certified in modern front-end development with React and responsive web design</p>
-    <a href="https://www.credly.com/badges/0a74c56e-b8f0-49de-b97f-e36f7e037136/public_url" target="_blank" style="display: inline-block; background: #FFAE00; color: #000; text-decoration: none; padding: 8px 15px; border-radius: 5px; font-weight: bold;">
-      View Credential
-    </a>
-  </div>
+<!-- Simple certification cards that will render properly on GitHub -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Oracle Certification -->
+      <td align="center">
+        <div>
+          <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="200" alt="Oracle"/>
+          <h3>Java SE 8 Programmer I</h3>
+          <p>Oracle Certified Associate credential validating core Java programming skills</p>
+          <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C69934E18073C4BF03D5E74693080DA67DB974B336AE49D7AD00F16C2CC53827" target="_blank">
+            <img src="https://img.shields.io/badge/View_Credential-FFAE00?style=for-the-badge" alt="View Credential"/>
+          </a>
+        </div>
+      </td>
+      <!-- GitHub Certification -->
+      <td align="center">
+        <div>
+          <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" width="200" alt="GitHub"/>
+          <h3>GitHub Foundations</h3>
+          <p>Certified in version control, collaboration and GitHub workflow fundamentals</p>
+          <a href="https://www.credly.com/badges/0837088b-e45f-42ec-a5ed-cef0b3e47ad1/public_url" target="_blank">
+            <img src="https://img.shields.io/badge/View_Credential-FFAE00?style=for-the-badge" alt="View Credential"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <!-- Azure Certification -->
+      <td align="center">
+        <div>
+          <img src="https://img.shields.io/badge/MICROSOFT_AZURE-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="200" alt="Microsoft Azure"/>
+          <h3>Azure Fundamentals</h3>
+          <p>Certified in cloud concepts, Azure services, security, privacy, and compliance</p>
+          <a href="https://learn.microsoft.com/en-us/users/moaddahbi-3964/credentials/e95e246a9fdb9360?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+            <img src="https://img.shields.io/badge/View_Credential-FFAE00?style=for-the-badge" alt="View Credential"/>
+          </a>
+        </div>
+      </td>
+      <!-- Meta Certification -->
+      <td align="center">
+        <div>
+          <img src="https://img.shields.io/badge/META-0668E1?style=for-the-badge&logo=meta&logoColor=white" width="200" alt="Meta"/>
+          <h3>Front-End Developer</h3>
+          <p>Certified in modern front-end development with React and responsive web design</p>
+          <a href="https://www.credly.com/badges/0a74c56e-b8f0-49de-b97f-e36f7e037136/public_url" target="_blank">
+            <img src="https://img.shields.io/badge/View_Credential-FFAE00?style=for-the-badge" alt="View Credential"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- TECH STACK SECTION -->
