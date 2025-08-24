@@ -251,13 +251,12 @@
 
 <!-- GitHub Trophies with Enhanced Visual Style -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/2nZltTmZGqVwY/giphy.gif" width="32" />
-    <span style="color: #FFAE00"> GITHUB ACHIEVEMENTS </span>
-    <img src="https://media.giphy.com/media/2nZltTmZGqVwY/giphy.gif" width="32" />
-  </h2>
+  <h2>🏆 GITHUB ACHIEVEMENTS 🏆</h2>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=dahbimoad&theme=onedark&no-frame=true&no-bg=true&column=-1&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B" width="100%" alt="Trophy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dahbimoad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahbimoad&theme=dark&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
 
