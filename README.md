@@ -250,7 +250,7 @@
 </div>
 
 <!-- GitHub Trophies with Enhanced Visual Style -->
-<div align="center">
+<!--<div align="center">
   <h2>🏆 GITHUB ACHIEVEMENTS 🏆</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=dahbimoad&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -258,8 +258,8 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahbimoad&theme=onedark&hide_border=true&layout=compact" alt="Top Languages" />
   </p>
-</div>
-
+</div>  
+-->
 <!-- Professional Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
