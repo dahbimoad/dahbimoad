@@ -253,10 +253,10 @@
 <div align="center">
   <h2>🏆 GITHUB ACHIEVEMENTS 🏆</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dahbimoad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dahbimoad&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahbimoad&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahbimoad&theme=onedark&hide_border=true&layout=compact" alt="Top Languages" />
   </p>
 </div>
 
