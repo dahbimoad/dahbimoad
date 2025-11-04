@@ -307,17 +307,18 @@
   <img alt="Moad's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dahbimoad&theme=react-dark&hide_border=true&area=true&custom_title=Moad's%20Contribution%20Graph&bg_color=0D1117&color=FFAE00&line=FF9C00&point=FFAE00&area_color=FFAE00&area=true" width="95%" />
 </div>
 
-<!-- GitHub Trophies with Enhanced Visual Style -->
-<!--<div align="center">
-  <h2>🏆 GITHUB ACHIEVEMENTS 🏆</h2>
+<!-- GitHub Trophies Section -->
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+    <span style="color: #FFAE00"> GITHUB TROPHIES </span>
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  </h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dahbimoad&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dahbimoad&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=Stars,Commits,Followers,Issues,PullRequest,Reviews,Experience,MultiLanguage,Joined" alt="GitHub Trophies" />
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahbimoad&theme=onedark&hide_border=true&layout=compact" alt="Top Languages" />
-  </p>
-</div>  
--->
+</div>
+
 <!-- Professional Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
